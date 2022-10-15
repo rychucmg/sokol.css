@@ -1,10 +1,3 @@
-/*----- da eliminare ------*/
-html,
-body {
-  overflow: visible;
-}
-
-@import url(https://www.power.flexyscore.net/dirette/temp/css/schema.css);
 /*----- classi comuni ------*/
 * {
   -webkit-backface-visibility: hidden;
